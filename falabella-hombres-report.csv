@@ -1,0 +1,866 @@
+retail,gender,category,brand,count,price_mean,price_std,price_min,price_max
+Falabella,Hombres,Boxers Calzoncillos,Calvin Klein,38,194.64,47.75,109.9,289.9
+Falabella,Hombres,Boxers Calzoncillos,Boston,32,56.87,32.92,17.9,129.9
+Falabella,Hombres,Boxers Calzoncillos,Mossimo,23,55.57,19.22,39.92,87.92
+Falabella,Hombres,Boxers Calzoncillos,Newport,21,38.78,4.59,31.92,47.92
+Falabella,Hombres,Boxers Calzoncillos,Palmers,21,65.64,13.25,34.9,89.9
+Falabella,Hombres,Boxers Calzoncillos,Benetton,18,46.03,13.32,34.9,79.92
+Falabella,Hombres,Boxers Calzoncillos,Denimlab,17,50.74,13.14,34.9,79.92
+Falabella,Hombres,Boxers Calzoncillos,Bearcliff,16,42.42,15.1,31.92,79.92
+Falabella,Hombres,Boxers Calzoncillos,Fila,15,55.77,33.02,19.9,119.9
+Falabella,Hombres,Boxers Calzoncillos,Basement,13,35.3,13.45,27.92,79.92
+Falabella,Hombres,Boxers Calzoncillos,Clover,11,26.75,7.96,13.0,39.0
+Falabella,Hombres,Boxers Calzoncillos,Jockey,10,61.18,13.18,35.0,75.0
+Falabella,Hombres,Boxers Calzoncillos,Unno Underwear,7,69.17,23.44,25.0,90.99
+Falabella,Hombres,Boxers Calzoncillos,John Holden,6,71.57,27.14,29.9,99.9
+Falabella,Hombres,Boxers Calzoncillos,Ecko,5,63.92,14.96,47.92,79.92
+Falabella,Hombres,Boxers Calzoncillos,Kayser,5,19.5,5.5,13.9,24.9
+Falabella,Hombres,Boxers Calzoncillos,La Martina,4,89.9,34.64,59.9,139.9
+Falabella,Hombres,Boxers Calzoncillos,Generico,3,91.67,23.67,78.0,119.0
+Falabella,Hombres,Boxers Calzoncillos,Starter,3,90.59,48.88,47.92,143.92
+Falabella,Hombres,Boxers Calzoncillos,Superdry,3,86.26,32.33,48.93,104.93
+Falabella,Hombres,Boxers Calzoncillos,Diesel,2,239.0,14.14,229.0,249.0
+Falabella,Hombres,Boxers Calzoncillos,Reebok,2,149.0,0.0,149.0,149.0
+Falabella,Hombres,Boxers Calzoncillos,Supra,2,71.2,7.5,65.9,76.5
+Falabella,Hombres,Boxers Calzoncillos,Tommy Hilfiger,2,179.0,14.14,169.0,189.0
+Falabella,Hombres,Boxers Calzoncillos,Billabong,1,139.0,0.0,139.0,139.0
+Falabella,Hombres,Boxers Calzoncillos,Cc Group,1,29.99,0.0,29.99,29.99
+Falabella,Hombres,Boxers Calzoncillos,Lancaster,1,26.9,0.0,26.9,26.9
+Falabella,Hombres,Boxers Calzoncillos,Levis,1,99.0,0.0,99.0,99.0
+Falabella,Hombres,Boxers Calzoncillos,Mlb,1,23.96,0.0,23.96,23.96
+Falabella,Hombres,Boxers Calzoncillos,Norton,1,40.5,0.0,40.5,40.5
+Falabella,Hombres,Boxers Calzoncillos,Oem,1,79.0,0.0,79.0,79.0
+Falabella,Hombres,Boxers Calzoncillos,Wessel,1,35.0,0.0,35.0,35.0
+Falabella,Hombres,Camisas,La Martina,55,224.18,19.99,114.95,279.0
+Falabella,Hombres,Camisas,Basement,39,115.37,19.2,64.95,149.9
+Falabella,Hombres,Camisas,Tommy Hilfiger,36,396.01,32.71,339.9,469.9
+Falabella,Hombres,Camisas,Wolf&Hank,36,172.08,36.97,89.95,219.9
+Falabella,Hombres,Camisas,Mango,29,220.81,53.09,99.95,279.9
+Falabella,Hombres,Camisas,Pierre Cardin,26,203.83,29.43,167.3,249.0
+Falabella,Hombres,Camisas,Christian Lacroix,23,121.47,21.96,59.95,149.9
+Falabella,Hombres,Camisas,Denimlab,23,91.7,20.25,65.94,149.9
+Falabella,Hombres,Camisas,Cherokee,22,40.35,2.13,39.9,49.9
+Falabella,Hombres,Camisas,Norton,17,122.36,29.84,35.4,149.0
+Falabella,Hombres,Camisas,Bearcliff,16,58.73,18.66,29.9,89.9
+Falabella,Hombres,Camisas,Nike,16,125.69,47.88,62.3,229.0
+Falabella,Hombres,Camisas,Polo Ralph Lauren,14,431.02,41.93,307.3,459.0
+Falabella,Hombres,Camisas,Riff&Raff,14,105.4,14.84,83.4,119.0
+Falabella,Hombres,Camisas,Billabong,13,195.94,11.04,159.2,199.0
+Falabella,Hombres,Camisas,Cortefiel,13,185.13,28.9,107.9,199.9
+Falabella,Hombres,Camisas,University Club,12,100.74,11.64,69.93,109.9
+Falabella,Hombres,Camisas,Volcom,12,278.17,29.99,249.0,349.0
+Falabella,Hombres,Camisas,Springfield,11,157.17,47.35,29.9,199.9
+Falabella,Hombres,Camisas,Trial,11,206.27,22.4,159.0,219.0
+Falabella,Hombres,Camisas,Doo Australia,10,116.4,25.6,64.95,149.9
+Falabella,Hombres,Camisas,Newport,10,57.22,10.41,41.94,69.9
+Falabella,Hombres,Camisas,Rvca,10,203.0,30.98,179.0,259.0
+Falabella,Hombres,Camisas,Adidas,9,101.81,39.29,63.92,199.9
+Falabella,Hombres,Camisas,Dockers,8,194.9,22.68,169.9,219.9
+Falabella,Hombres,Camisas,Tropikl,8,78.65,9.91,69.9,89.9
+Falabella,Hombres,Camisas,Izod,7,174.19,11.34,169.9,199.9
+Falabella,Hombres,Camisas,John Holden,7,167.04,25.63,139.9,189.9
+Falabella,Hombres,Camisas,Pionier,7,146.23,36.39,89.4,189.9
+Falabella,Hombres,Camisas,Mossimo,6,74.93,33.29,49.95,129.9
+Falabella,Hombres,Camisas,Calvin Klein,5,365.9,56.83,289.9,419.9
+Falabella,Hombres,Camisas,Diesel,5,841.0,96.02,759.0,959.0
+Falabella,Hombres,Camisas,Perry Ellis,5,158.1,46.73,74.5,179.0
+Falabella,Hombres,Camisas,San Cosme,4,79.0,11.55,69.0,89.0
+Falabella,Hombres,Camisas,Fackie,3,119.9,0.0,119.9,119.9
+Falabella,Hombres,Camisas,Huntington,3,169.9,0.0,169.9,169.9
+Falabella,Hombres,Camisas,Mango Kids,3,63.91,24.23,41.94,89.9
+Falabella,Hombres,Camisas,Uno,3,175.0,0.0,175.0,175.0
+Falabella,Hombres,Camisas,Cascais,2,184.9,49.5,149.9,219.9
+Falabella,Hombres,Camisas,Coniglio,2,39.95,0.0,39.95,39.95
+Falabella,Hombres,Camisas,Generico,2,175.0,0.0,175.0,175.0
+Falabella,Hombres,Camisas,Gzuck,2,132.2,52.04,95.4,169.0
+Falabella,Hombres,Camisas,Madmen,2,144.0,21.21,129.0,159.0
+Falabella,Hombres,Camisas,Oakley,2,349.0,0.0,349.0,349.0
+Falabella,Hombres,Camisas,The North Face,2,288.2,85.98,227.4,349.0
+Falabella,Hombres,Camisas,Xero Tolerance,2,101.4,0.0,101.4,101.4
+Falabella,Hombres,Camisas,Cafe Con Leche,1,105.0,0.0,105.0,105.0
+Falabella,Hombres,Camisas,Cascais.,1,219.9,0.0,219.9,219.9
+Falabella,Hombres,Camisas,Columbia,1,239.2,0.0,239.2,239.2
+Falabella,Hombres,Camisas,Ecko,1,59.9,0.0,59.9,59.9
+Falabella,Hombres,Camisas,Juventus,1,79.9,0.0,79.9,79.9
+Falabella,Hombres,Camisas,Kansas,1,149.9,0.0,149.9,149.9
+Falabella,Hombres,Camisas,Lacoste,1,299.9,0.0,299.9,299.9
+Falabella,Hombres,Camisas,Levis,1,229.9,0.0,229.9,229.9
+Falabella,Hombres,Camisas,Lois,1,139.9,0.0,139.9,139.9
+Falabella,Hombres,Camisas,Machine,1,139.9,0.0,139.9,139.9
+Falabella,Hombres,Camisas,Marathon Sports,1,49.9,0.0,49.9,49.9
+Falabella,Hombres,Camisas,Nation Store,1,38.27,0.0,38.27,38.27
+Falabella,Hombres,Camisas,Peak,1,159.0,0.0,159.0,159.0
+Falabella,Hombres,Camisas,Rip Curl,1,129.0,0.0,129.0,129.0
+Falabella,Hombres,Camisas,Skybloo,1,39.0,0.0,39.0,39.0
+Falabella,Hombres,Camisas,Sm,1,25.0,0.0,25.0,25.0
+Falabella,Hombres,Camisas,Starter,1,49.9,0.0,49.9,49.9
+Falabella,Hombres,Camisas,Superdry,1,179.9,0.0,179.9,179.9
+Falabella,Hombres,Casacas Abrigos,Atp,37,138.32,27.23,89.0,169.0
+Falabella,Hombres,Casacas Abrigos,Generico,28,138.62,30.21,94.98,195.0
+Falabella,Hombres,Casacas Abrigos,Kansas,18,249.9,31.81,199.9,299.9
+Falabella,Hombres,Casacas Abrigos,Elenex,16,165.48,49.41,109.0,259.0
+Falabella,Hombres,Casacas Abrigos,Norton,11,195.56,67.12,119.2,319.2
+Falabella,Hombres,Casacas Abrigos,Pacific Berry,10,135.0,11.74,119.0,149.0
+Falabella,Hombres,Casacas Abrigos,Riff&Raff,10,192.69,57.42,101.4,279.0
+Falabella,Hombres,Casacas Abrigos,Calvin Klein,9,705.46,52.7,649.9,799.9
+Falabella,Hombres,Casacas Abrigos,Diesel,9,2003.44,538.77,1459.0,2659.0
+Falabella,Hombres,Casacas Abrigos,Mango,9,383.14,144.75,239.94,699.0
+Falabella,Hombres,Casacas Abrigos,All Basics,8,49.9,0.0,49.9,49.9
+Falabella,Hombres,Casacas Abrigos,Element,8,282.4,73.05,199.9,349.9
+Falabella,Hombres,Casacas Abrigos,Tommy Hilfiger,8,819.91,120.46,729.9,1090.9
+Falabella,Hombres,Casacas Abrigos,Adidas,7,295.5,100.68,169.0,429.9
+Falabella,Hombres,Casacas Abrigos,Tapout,7,161.33,12.26,137.9,169.9
+Falabella,Hombres,Casacas Abrigos,Gzuck,6,241.13,81.0,89.4,329.9
+Falabella,Hombres,Casacas Abrigos,Volcom,6,377.33,92.18,299.0,529.0
+Falabella,Hombres,Casacas Abrigos,Wolf&Hank,5,387.9,78.23,279.9,499.9
+Falabella,Hombres,Casacas Abrigos,Dockers,4,462.4,47.87,399.9,499.9
+Falabella,Hombres,Casacas Abrigos,New York Stars,4,79.9,0.0,79.9,79.9
+Falabella,Hombres,Casacas Abrigos,Superdry,4,266.18,78.44,199.95,379.9
+Falabella,Hombres,Casacas Abrigos,Bearcliff,3,91.26,51.41,53.97,149.9
+Falabella,Hombres,Casacas Abrigos,Cortefiel,3,319.9,199.25,199.9,549.9
+Falabella,Hombres,Casacas Abrigos,Guess,3,552.63,154.58,399.9,709.0
+Falabella,Hombres,Casacas Abrigos,Mossimo,3,295.92,349.91,87.96,699.9
+Falabella,Hombres,Casacas Abrigos,Nike,3,306.57,37.86,279.9,349.9
+Falabella,Hombres,Casacas Abrigos,Oakley,3,365.97,125.41,249.9,499.0
+Falabella,Hombres,Casacas Abrigos,Polo Ralph Lauren,3,899.0,0.0,899.0,899.0
+Falabella,Hombres,Casacas Abrigos,Sm,3,19.98,0.0,19.98,19.98
+Falabella,Hombres,Casacas Abrigos,Basement,2,279.9,0.0,279.9,279.9
+Falabella,Hombres,Casacas Abrigos,Jack&Jones,2,199.9,42.43,169.9,229.9
+Falabella,Hombres,Casacas Abrigos,La Martina,2,389.9,14.14,379.9,399.9
+Falabella,Hombres,Casacas Abrigos,Pionier,2,231.2,45.25,199.2,263.2
+Falabella,Hombres,Casacas Abrigos,Reebok,2,224.45,77.15,169.9,279.0
+Falabella,Hombres,Casacas Abrigos,Rvca,2,399.0,0.0,399.0,399.0
+Falabella,Hombres,Casacas Abrigos,1921 International,1,139.9,0.0,139.9,139.9
+Falabella,Hombres,Casacas Abrigos,Billabong,1,399.0,0.0,399.0,399.0
+Falabella,Hombres,Casacas Abrigos,Cascais,1,299.9,0.0,299.9,299.9
+Falabella,Hombres,Casacas Abrigos,Christian Lacroix,1,83.97,0.0,83.97,83.97
+Falabella,Hombres,Casacas Abrigos,D'Shenk Handmade Style,1,179.9,0.0,179.9,179.9
+Falabella,Hombres,Casacas Abrigos,Dc Shoes,1,199.9,0.0,199.9,199.9
+Falabella,Hombres,Casacas Abrigos,Denimlab,1,169.9,0.0,169.9,169.9
+Falabella,Hombres,Casacas Abrigos,Doo Australia,1,269.9,0.0,269.9,269.9
+Falabella,Hombres,Casacas Abrigos,Ecko Unltd,1,229.0,0.0,229.0,229.0
+Falabella,Hombres,Casacas Abrigos,Just,1,69.0,0.0,69.0,69.0
+Falabella,Hombres,Casacas Abrigos,Kjari Herencia Peruana,1,125.0,0.0,125.0,125.0
+Falabella,Hombres,Casacas Abrigos,Levis,1,369.0,0.0,369.0,369.0
+Falabella,Hombres,Casacas Abrigos,Liveralia,1,249.0,0.0,249.0,249.0
+Falabella,Hombres,Casacas Abrigos,Lois,1,239.99,0.0,239.99,239.99
+Falabella,Hombres,Casacas Abrigos,Ottoware,1,64.0,0.0,64.0,64.0
+Falabella,Hombres,Casacas Abrigos,Pura,1,49.9,0.0,49.9,49.9
+Falabella,Hombres,Casacas Abrigos,Rising Dragon,1,149.0,0.0,149.0,149.0
+Falabella,Hombres,Casacas Abrigos,Roxjes Jeans,1,139.99,0.0,139.99,139.99
+Falabella,Hombres,Casacas Abrigos,Starter,1,95.0,0.0,95.0,95.0
+Falabella,Hombres,Casacas Abrigos,University Club,1,59.97,0.0,59.97,59.97
+Falabella,Hombres,Casacas Abrigos,Wrangler,1,329.0,0.0,329.0,329.0
+Falabella,Hombres,Casacas Abrigos,Xero Tolerance,1,119.4,0.0,119.4,119.4
+Falabella,Hombres,Chompas Chalecos,Atp,20,110.0,13.1,89.0,125.0
+Falabella,Hombres,Chompas Chalecos,Polo Ralph Lauren,20,479.54,119.51,399.0,899.0
+Falabella,Hombres,Chompas Chalecos,Mango,15,250.57,58.1,137.94,299.9
+Falabella,Hombres,Chompas Chalecos,Norton,12,155.83,28.69,127.2,199.0
+Falabella,Hombres,Chompas Chalecos,Tommy Hilfiger,12,507.4,108.89,399.9,659.9
+Falabella,Hombres,Chompas Chalecos,New York Stars,9,79.9,0.0,79.9,79.9
+Falabella,Hombres,Chompas Chalecos,Volcom,9,212.33,45.28,169.0,319.0
+Falabella,Hombres,Chompas Chalecos,Trial,8,196.5,19.09,169.0,219.0
+Falabella,Hombres,Chompas Chalecos,Dockers,6,181.57,9.83,169.9,199.9
+Falabella,Hombres,Chompas Chalecos,Calvin Klein,5,597.9,190.58,369.9,799.9
+Falabella,Hombres,Chompas Chalecos,Guess,5,485.0,70.21,389.0,549.0
+Falabella,Hombres,Chompas Chalecos,Superdry,5,181.92,47.23,124.95,229.9
+Falabella,Hombres,Chompas Chalecos,Just,4,43.0,0.0,43.0,43.0
+Falabella,Hombres,Chompas Chalecos,Elenex,3,119.9,0.0,119.9,119.9
+Falabella,Hombres,Chompas Chalecos,Generico,3,167.93,156.81,77.4,349.0
+Falabella,Hombres,Chompas Chalecos,Jack&Jones,3,143.23,23.09,129.9,169.9
+Falabella,Hombres,Chompas Chalecos,Kappa,3,199.0,0.0,199.0,199.0
+Falabella,Hombres,Chompas Chalecos,Oakley,3,249.0,17.32,229.0,259.0
+Falabella,Hombres,Chompas Chalecos,Springfield,3,219.9,10.0,209.9,229.9
+Falabella,Hombres,Chompas Chalecos,Wolf&Hank,3,259.9,34.64,219.9,279.9
+Falabella,Hombres,Chompas Chalecos,Basement,2,99.9,0.0,99.9,99.9
+Falabella,Hombres,Chompas Chalecos,Cascais,2,224.9,35.36,199.9,249.9
+Falabella,Hombres,Chompas Chalecos,Christian Lacroix,2,44.97,0.0,44.97,44.97
+Falabella,Hombres,Chompas Chalecos,Diesel,2,959.0,0.0,959.0,959.0
+Falabella,Hombres,Chompas Chalecos,Mango Kids,2,114.9,21.21,99.9,129.9
+Falabella,Hombres,Chompas Chalecos,Oshkosh,2,114.9,21.21,99.9,129.9
+Falabella,Hombres,Chompas Chalecos,Carters,1,119.9,0.0,119.9,119.9
+Falabella,Hombres,Chompas Chalecos,Cortefiel,1,167.9,0.0,167.9,167.9
+Falabella,Hombres,Chompas Chalecos,Federation,1,59.94,0.0,59.94,59.94
+Falabella,Hombres,Chompas Chalecos,Gzuck,1,119.4,0.0,119.4,119.4
+Falabella,Hombres,Chompas Chalecos,Kate Spade New York,1,179.0,0.0,179.0,179.0
+Falabella,Hombres,Chompas Chalecos,La Martina,1,299.9,0.0,299.9,299.9
+Falabella,Hombres,Chompas Chalecos,Ottoware,1,45.0,0.0,45.0,45.0
+Falabella,Hombres,Chompas Chalecos,Parada 111,1,118.3,0.0,118.3,118.3
+Falabella,Hombres,Chompas Chalecos,Pierre Cardin,1,231.2,0.0,231.2,231.2
+Falabella,Hombres,Chompas Chalecos,Riff&Raff,1,35.94,0.0,35.94,35.94
+Falabella,Hombres,Chompas Chalecos,Rising Dragon,1,119.0,0.0,119.0,119.0
+Falabella,Hombres,Chompas Chalecos,Rockbros,1,85.0,0.0,85.0,85.0
+Falabella,Hombres,Chompas Chalecos,Sm,1,16.99,0.0,16.99,16.99
+Falabella,Hombres,Chompas Chalecos,Starter,1,59.95,0.0,59.95,59.95
+Falabella,Hombres,Chompas Chalecos,University Club,1,119.9,0.0,119.9,119.9
+Falabella,Hombres,Chompas Chalecos,Yamp,1,44.95,0.0,44.95,44.95
+Falabella,Hombres,Jeans,Kansas,80,122.78,20.94,69.9,169.9
+Falabella,Hombres,Jeans,Wrangler,64,170.28,23.73,119.9,239.0
+Falabella,Hombres,Jeans,Levis,51,243.65,39.42,119.94,289.9
+Falabella,Hombres,Jeans,Fits Men,37,116.62,15.27,83.3,129.9
+Falabella,Hombres,Jeans,Diesel,28,1097.21,367.68,659.0,1799.0
+Falabella,Hombres,Jeans,Mango,27,184.49,22.81,143.92,259.9
+Falabella,Hombres,Jeans,Jack&Jones,26,170.1,38.26,134.93,279.9
+Falabella,Hombres,Jeans,Bronco American,22,162.65,25.07,99.99,189.9
+Falabella,Hombres,Jeans,Pionier,21,145.15,20.82,99.9,179.0
+Falabella,Hombres,Jeans,Bearcliff,20,78.9,19.7,39.95,129.9
+Falabella,Hombres,Jeans,Lois,18,179.9,8.4,159.9,189.9
+Falabella,Hombres,Jeans,Mossimo,18,122.13,35.61,79.92,189.9
+Falabella,Hombres,Jeans,Denimlab,15,115.57,26.37,74.95,149.9
+Falabella,Hombres,Jeans,Norton,12,126.28,14.36,107.4,151.2
+Falabella,Hombres,Jeans,Bronco,10,163.91,18.36,129.99,189.9
+Falabella,Hombres,Jeans,Gzuck,9,172.73,33.02,149.9,239.9
+Falabella,Hombres,Jeans,Springfield,9,166.57,10.0,139.9,169.9
+Falabella,Hombres,Jeans,Ecko,8,108.65,16.42,99.9,139.9
+Falabella,Hombres,Jeans,Riff&Raff,8,102.15,2.12,101.4,107.4
+Falabella,Hombres,Jeans,Doo Australia,7,108.47,14.64,99.9,129.9
+Falabella,Hombres,Jeans,Salsa,7,113.29,9.76,99.0,119.0
+Falabella,Hombres,Jeans,All Basics,6,59.9,0.0,59.9,59.9
+Falabella,Hombres,Jeans,Xero Tolerance,5,119.4,0.0,119.4,119.4
+Falabella,Hombres,Jeans,Huntington,4,169.9,0.0,169.9,169.9
+Falabella,Hombres,Jeans,Parada 111,4,87.2,0.0,87.2,87.2
+Falabella,Hombres,Jeans,Perry Ellis,4,174.12,49.75,99.5,199.0
+Falabella,Hombres,Jeans,Basement,3,98.25,20.18,74.95,109.9
+Falabella,Hombres,Jeans,Trial,3,199.0,0.0,199.0,199.0
+Falabella,Hombres,Jeans,La Martina,2,219.9,0.0,219.9,219.9
+Falabella,Hombres,Jeans,University Club,2,109.9,0.0,109.9,109.9
+Falabella,Hombres,Jeans,1921 International,1,179.9,0.0,179.9,179.9
+Falabella,Hombres,Jeans,Christian Lacroix,1,129.9,0.0,129.9,129.9
+Falabella,Hombres,Jeans,Generico,1,159.0,0.0,159.0,159.0
+Falabella,Hombres,Jeans,Guess,1,409.0,0.0,409.0,409.0
+Falabella,Hombres,Jeans,Madmen,1,159.0,0.0,159.0,159.0
+Falabella,Hombres,Jeans,Newport,1,79.9,0.0,79.9,79.9
+Falabella,Hombres,Jeans,Polo Ralph Lauren,1,499.0,0.0,499.0,499.0
+Falabella,Hombres,Jeans,Starter,1,59.94,0.0,59.94,59.94
+Falabella,Hombres,Jeans,Volcom,1,299.0,0.0,299.0,299.0
+Falabella,Hombres,Medias,Cheese Socks,87,44.41,20.05,20.0,84.0
+Falabella,Hombres,Medias,Bearcliff,43,22.3,6.82,12.9,39.9
+Falabella,Hombres,Medias,Basement,34,13.05,13.9,6.9,89.9
+Falabella,Hombres,Medias,Jockey,32,30.11,12.94,16.5,55.0
+Falabella,Hombres,Medias,Benetton,29,22.18,17.63,12.9,89.9
+Falabella,Hombres,Medias,Lancaster,22,12.69,1.62,9.0,14.9
+Falabella,Hombres,Medias,Fila,18,69.34,19.47,49.9,94.9
+Falabella,Hombres,Medias,Ecko,15,45.9,14.04,29.9,59.9
+Falabella,Hombres,Medias,Abnormal Socks,12,20.39,1.17,19.89,22.9
+Falabella,Hombres,Medias,Adidas,12,58.16,7.16,39.9,69.9
+Falabella,Hombres,Medias,Newport,12,23.74,5.55,15.92,29.9
+Falabella,Hombres,Medias,Springfield,12,14.61,3.64,6.45,19.9
+Falabella,Hombres,Medias,John Holden,9,25.9,9.31,9.9,34.9
+Falabella,Hombres,Medias,Palmers,9,48.26,4.99,39.95,54.9
+Falabella,Hombres,Medias,Generico,8,54.8,18.08,35.0,74.9
+Falabella,Hombres,Medias,Kayser,8,24.4,7.5,12.9,29.9
+Falabella,Hombres,Medias,Silvera Nanotech,8,47.8,8.2,39.0,59.9
+Falabella,Hombres,Medias,Starter,8,40.52,16.13,29.9,69.9
+Falabella,Hombres,Medias,La Martina,7,20.61,10.18,14.9,39.9
+Falabella,Hombres,Medias,All Basics,6,9.9,0.0,9.9,9.9
+Falabella,Hombres,Medias,Aldo,5,57.9,13.04,39.9,69.9
+Falabella,Hombres,Medias,Denimlab,5,38.9,24.6,14.9,79.9
+Falabella,Hombres,Medias,Pionier,5,49.0,0.0,49.0,49.0
+Falabella,Hombres,Medias,Levis,3,39.95,0.0,39.95,39.95
+Falabella,Hombres,Medias,Adidas Originals,2,49.9,0.0,49.9,49.9
+Falabella,Hombres,Medias,Cc Group,2,24.99,0.0,24.99,24.99
+Falabella,Hombres,Medias,Cortefiel,2,69.9,0.0,69.9,69.9
+Falabella,Hombres,Medias,Foot Works,2,50.0,0.0,50.0,50.0
+Falabella,Hombres,Medias,Joe Boxer,2,24.9,0.0,24.9,24.9
+Falabella,Hombres,Medias,Nba,2,15.96,0.0,15.96,15.96
+Falabella,Hombres,Medias,Stance,2,79.0,0.0,79.0,79.0
+Falabella,Hombres,Medias,Tapout,2,49.9,0.0,49.9,49.9
+Falabella,Hombres,Medias,Under Armour,2,59.9,0.0,59.9,59.9
+Falabella,Hombres,Medias,Dc Comics,1,19.95,0.0,19.95,19.95
+Falabella,Hombres,Medias,Hangertips,1,29.0,0.0,29.0,29.0
+Falabella,Hombres,Medias,Hoseg,1,31.2,0.0,31.2,31.2
+Falabella,Hombres,Medias,Inspira,1,14.0,0.0,14.0,14.0
+Falabella,Hombres,Medias,La Casa De Papel,1,19.95,0.0,19.95,19.95
+Falabella,Hombres,Medias,Le Petit Lion,1,35.0,0.0,35.0,35.0
+Falabella,Hombres,Medias,Mountain Gear,1,19.9,0.0,19.9,19.9
+Falabella,Hombres,Medias,Nike,1,41.3,0.0,41.3,41.3
+Falabella,Hombres,Medias,Peak,1,59.0,0.0,59.0,59.0
+Falabella,Hombres,Medias,Redline,1,27.9,0.0,27.9,27.9
+Falabella,Hombres,Medias,Reebok,1,89.0,0.0,89.0,89.0
+Falabella,Hombres,Medias,Salomon,1,34.9,0.0,34.9,34.9
+Falabella,Hombres,Medias,Stranger Things,1,19.95,0.0,19.95,19.95
+Falabella,Hombres,Medias,Umbro,1,39.99,0.0,39.99,39.99
+Falabella,Hombres,Medias,Vnro,1,19.9,0.0,19.9,19.9
+Falabella,Hombres,Pantalones Joggers,Norton,130,128.62,19.76,95.2,189.0
+Falabella,Hombres,Pantalones Joggers,Pionier,84,144.5,31.33,74.5,189.0
+Falabella,Hombres,Pantalones Joggers,Parada 111,45,99.01,15.76,79.0,129.9
+Falabella,Hombres,Pantalones Joggers,Fits Men,38,96.61,16.21,65.4,139.9
+Falabella,Hombres,Pantalones Joggers,Cherokee,35,43.47,2.29,39.9,44.9
+Falabella,Hombres,Pantalones Joggers,Yonisters Clothing,30,103.0,19.76,69.0,129.0
+Falabella,Hombres,Pantalones Joggers,All Basics,28,43.83,7.86,34.9,59.9
+Falabella,Hombres,Pantalones Joggers,Dockers,28,217.94,31.28,174.93,249.9
+Falabella,Hombres,Pantalones Joggers,Xero Tolerance,23,118.88,5.7,107.4,131.4
+Falabella,Hombres,Pantalones Joggers,Cotton'S Jeans,18,103.91,12.19,78.9,124.5
+Falabella,Hombres,Pantalones Joggers,Mango,16,232.41,48.23,159.92,299.9
+Falabella,Hombres,Pantalones Joggers,Tommy Hilfiger,16,584.9,76.16,439.9,749.9
+Falabella,Hombres,Pantalones Joggers,Gzuck,14,155.52,10.73,119.2,159.2
+Falabella,Hombres,Pantalones Joggers,Adidas,13,143.79,19.91,119.94,195.93
+Falabella,Hombres,Pantalones Joggers,Bearcliff,13,76.68,34.85,39.9,129.9
+Falabella,Hombres,Pantalones Joggers,Basement,11,91.2,33.75,39.9,149.9
+Falabella,Hombres,Pantalones Joggers,Doo Australia,11,98.93,20.94,64.95,129.9
+Falabella,Hombres,Pantalones Joggers,Columbia,9,280.38,42.61,215.2,329.0
+Falabella,Hombres,Pantalones Joggers,Generico,9,190.57,105.08,83.3,370.0
+Falabella,Hombres,Pantalones Joggers,Diesel,8,981.5,355.24,659.0,1799.0
+Falabella,Hombres,Pantalones Joggers,Jack&Jones,8,143.65,11.88,119.9,149.9
+Falabella,Hombres,Pantalones Joggers,Newport,8,70.54,20.75,34.95,89.9
+Falabella,Hombres,Pantalones Joggers,Nike,8,192.78,38.26,125.3,249.0
+Falabella,Hombres,Pantalones Joggers,Wolf&Hank,8,191.15,21.0,179.9,229.9
+Falabella,Hombres,Pantalones Joggers,Calvin Klein,7,389.9,55.08,349.9,489.9
+Falabella,Hombres,Pantalones Joggers,Champion,7,164.06,73.24,99.5,263.2
+Falabella,Hombres,Pantalones Joggers,Ecko,7,84.21,19.62,64.95,109.9
+Falabella,Hombres,Pantalones Joggers,New York Stars,7,28.9,3.74,25.9,32.9
+Falabella,Hombres,Pantalones Joggers,Starter,7,72.08,11.23,54.95,89.94
+Falabella,Hombres,Pantalones Joggers,Billabong,6,181.2,75.76,132.3,279.0
+Falabella,Hombres,Pantalones Joggers,Springfield,6,184.9,18.71,149.9,199.9
+Falabella,Hombres,Pantalones Joggers,Swiss Lord,6,89.9,0.0,89.9,89.9
+Falabella,Hombres,Pantalones Joggers,Trial,5,235.0,35.78,219.0,299.0
+Falabella,Hombres,Pantalones Joggers,1921 International,4,139.9,0.0,139.9,139.9
+Falabella,Hombres,Pantalones Joggers,Gordon And Smith,4,169.0,0.0,169.0,169.0
+Falabella,Hombres,Pantalones Joggers,Machine,4,152.4,30.96,109.9,179.9
+Falabella,Hombres,Pantalones Joggers,Ottoware,4,44.45,17.84,29.0,59.9
+Falabella,Hombres,Pantalones Joggers,Polo Ralph Lauren,4,494.0,95.39,399.0,599.0
+Falabella,Hombres,Pantalones Joggers,Bronco American,3,129.9,0.0,129.9,129.9
+Falabella,Hombres,Pantalones Joggers,Cascais.,3,141.58,49.05,84.95,169.9
+Falabella,Hombres,Pantalones Joggers,Denimlab,3,136.57,11.55,129.9,149.9
+Falabella,Hombres,Pantalones Joggers,Fila,3,80.0,0.0,80.0,80.0
+Falabella,Hombres,Pantalones Joggers,Guess,3,479.0,51.96,449.0,539.0
+Falabella,Hombres,Pantalones Joggers,Kansas,3,156.57,23.09,129.9,169.9
+Falabella,Hombres,Pantalones Joggers,La Martina,3,207.91,49.1,153.93,249.9
+Falabella,Hombres,Pantalones Joggers,Levis,3,132.33,50.33,79.0,179.0
+Falabella,Hombres,Pantalones Joggers,Oakley,3,185.97,141.94,89.9,349.0
+Falabella,Hombres,Pantalones Joggers,Peyito,3,79.27,25.02,54.9,104.9
+Falabella,Hombres,Pantalones Joggers,Rip Curl,3,119.2,25.81,104.3,149.0
+Falabella,Hombres,Pantalones Joggers,Rising Dragon,3,119.0,0.0,119.0,119.0
+Falabella,Hombres,Pantalones Joggers,Salsa,3,106.57,11.55,99.9,119.9
+Falabella,Hombres,Pantalones Joggers,University Club,3,64.92,40.93,19.9,99.9
+Falabella,Hombres,Pantalones Joggers,Volcom,3,229.0,62.45,159.0,279.0
+Falabella,Hombres,Pantalones Joggers,Wrangler,3,149.0,0.0,149.0,149.0
+Falabella,Hombres,Pantalones Joggers,Christian Lacroix,2,129.9,0.0,129.9,129.9
+Falabella,Hombres,Pantalones Joggers,Cortefiel,2,214.9,49.5,179.9,249.9
+Falabella,Hombres,Pantalones Joggers,Custer,2,49.9,0.0,49.9,49.9
+Falabella,Hombres,Pantalones Joggers,Disney,2,199.9,141.42,99.9,299.9
+Falabella,Hombres,Pantalones Joggers,Huntington,2,129.42,14.83,118.93,139.9
+Falabella,Hombres,Pantalones Joggers,Marvel,2,109.9,0.0,109.9,109.9
+Falabella,Hombres,Pantalones Joggers,Mossimo,2,74.92,21.24,59.9,89.94
+Falabella,Hombres,Pantalones Joggers,Pierre Cardin,2,191.2,0.0,191.2,191.2
+Falabella,Hombres,Pantalones Joggers,Reebok,2,99.0,0.0,99.0,99.0
+Falabella,Hombres,Pantalones Joggers,Rome,2,85.0,0.0,85.0,85.0
+Falabella,Hombres,Pantalones Joggers,Rvca,2,149.0,0.0,149.0,149.0
+Falabella,Hombres,Pantalones Joggers,San Cosme,2,99.0,0.0,99.0,99.0
+Falabella,Hombres,Pantalones Joggers,Superdry,2,137.44,17.67,124.95,149.94
+Falabella,Hombres,Pantalones Joggers,Top Danza,2,35.0,0.0,35.0,35.0
+Falabella,Hombres,Pantalones Joggers,Under Armour,2,219.9,42.43,189.9,249.9
+Falabella,Hombres,Pantalones Joggers,Uno,2,272.5,17.68,260.0,285.0
+Falabella,Hombres,Pantalones Joggers,Dc Comics,1,109.9,0.0,109.9,109.9
+Falabella,Hombres,Pantalones Joggers,Fratta,1,69.9,0.0,69.9,69.9
+Falabella,Hombres,Pantalones Joggers,Generica,1,289.0,0.0,289.0,289.0
+Falabella,Hombres,Pantalones Joggers,Lacoste,1,319.9,0.0,319.9,319.9
+Falabella,Hombres,Pantalones Joggers,Lois,1,129.9,0.0,129.9,129.9
+Falabella,Hombres,Pantalones Joggers,Original Penguin,1,129.0,0.0,129.0,129.0
+Falabella,Hombres,Pantalones Joggers,Perry Ellis,1,99.5,0.0,99.5,99.5
+Falabella,Hombres,Pantalones Joggers,Pioneer,1,159.9,0.0,159.9,159.9
+Falabella,Hombres,Pantalones Joggers,Riff&Raff,1,83.0,0.0,83.0,83.0
+Falabella,Hombres,Pantalones Joggers,Rock And Religion,1,189.0,0.0,189.0,189.0
+Falabella,Hombres,Pantalones Joggers,Trasher,1,189.9,0.0,189.9,189.9
+Falabella,Hombres,Pantuflas,Generico,11,85.09,17.63,40.0,115.0
+Falabella,Hombres,Pantuflas,Benetton,7,37.78,5.66,24.95,39.92
+Falabella,Hombres,Pantuflas,Clarks,7,301.33,26.73,279.9,329.9
+Falabella,Hombres,Pantuflas,Rema,7,69.0,0.0,69.0,69.0
+Falabella,Hombres,Pantuflas,John Holden,5,49.9,0.0,49.9,49.9
+Falabella,Hombres,Pantuflas,Superdry,5,79.12,1.08,77.94,79.92
+Falabella,Hombres,Pantuflas,Conters,4,82.0,0.0,82.0,82.0
+Falabella,Hombres,Pantuflas,La Martina,4,79.9,0.0,79.9,79.9
+Falabella,Hombres,Pantuflas,Palmers,4,54.94,5.76,49.95,59.95
+Falabella,Hombres,Pantuflas,Diadora,3,79.9,0.0,79.9,79.9
+Falabella,Hombres,Pantuflas,Puma,3,125.67,23.09,99.0,139.0
+Falabella,Hombres,Pantuflas,Starter,3,79.9,0.0,79.9,79.9
+Falabella,Hombres,Pantuflas,Basement,2,169.9,0.0,169.9,169.9
+Falabella,Hombres,Pantuflas,Bearcliff,2,59.9,0.0,59.9,59.9
+Falabella,Hombres,Pantuflas,Christian Lacroix,2,32.44,10.59,24.95,39.92
+Falabella,Hombres,Pantuflas,Mito,2,99.0,0.0,99.0,99.0
+Falabella,Hombres,Pantuflas,Nba,2,119.9,0.0,119.9,119.9
+Falabella,Hombres,Pantuflas,Theramart,2,100.0,0.0,100.0,100.0
+Falabella,Hombres,Pantuflas,Viari,2,89.99,0.0,89.99,89.99
+Falabella,Hombres,Pantuflas,Crocs,1,249.0,0.0,249.0,249.0
+Falabella,Hombres,Pantuflas,Enersocks,1,79.9,0.0,79.9,79.9
+Falabella,Hombres,Pantuflas,Rineus,1,179.9,0.0,179.9,179.9
+Falabella,Hombres,Pantuflas,Under Armour,1,119.9,0.0,119.9,119.9
+Falabella,Hombres,Pijamas,Tommy Hilfiger,34,227.55,51.29,159.9,339.9
+Falabella,Hombres,Pijamas,Boston,29,76.66,40.8,32.9,169.9
+Falabella,Hombres,Pijamas,Palmers,27,80.58,14.71,47.97,94.95
+Falabella,Hombres,Pijamas,Kayser,21,100.14,9.42,69.9,109.9
+Falabella,Hombres,Pijamas,Benetton,18,108.35,72.07,47.92,369.9
+Falabella,Hombres,Pijamas,Clover,18,56.22,40.91,23.9,169.0
+Falabella,Hombres,Pijamas,Jockey,15,88.7,30.35,41.9,169.0
+Falabella,Hombres,Pijamas,Newport,11,38.65,7.28,31.92,49.9
+Falabella,Hombres,Pijamas,Stripper,9,66.01,23.29,54.9,119.9
+Falabella,Hombres,Pijamas,Rising Dragon,8,84.0,9.26,79.0,99.0
+Falabella,Hombres,Pijamas,Bearcliff,7,44.65,32.89,14.97,89.9
+Falabella,Hombres,Pijamas,Basement,6,59.25,33.3,31.92,99.9
+Falabella,Hombres,Pijamas,Calvin Klein,6,169.9,0.0,169.9,169.9
+Falabella,Hombres,Pijamas,La Martina,6,144.9,8.37,129.9,149.9
+Falabella,Hombres,Pijamas,Naturell,6,54.4,1.22,51.9,54.9
+Falabella,Hombres,Pijamas,Pionier,5,96.8,6.69,87.2,103.2
+Falabella,Hombres,Pijamas,John Holden,3,78.23,52.52,24.9,129.9
+Falabella,Hombres,Pijamas,Starter,3,99.9,0.0,99.9,99.9
+Falabella,Hombres,Pijamas,3M,2,87.0,0.0,87.0,87.0
+Falabella,Hombres,Pijamas,Cherokee,2,69.9,0.0,69.9,69.9
+Falabella,Hombres,Pijamas,Enersocks,2,44.97,4.24,41.97,47.97
+Falabella,Hombres,Pijamas,Infinite,2,39.95,0.0,39.95,39.95
+Falabella,Hombres,Pijamas,Lancaster,2,76.0,62.23,32.0,120.0
+Falabella,Hombres,Pijamas,Barcelona,1,51.96,0.0,51.96,51.96
+Falabella,Hombres,Pijamas,Dc Comics,1,109.9,0.0,109.9,109.9
+Falabella,Hombres,Pijamas,Generico,1,99.0,0.0,99.0,99.0
+Falabella,Hombres,Pijamas,Marvel,1,109.9,0.0,109.9,109.9
+Falabella,Hombres,Pijamas,Norton,1,76.3,0.0,76.3,76.3
+Falabella,Hombres,Pijamas,Nubofit,1,100.0,0.0,100.0,100.0
+Falabella,Hombres,Pijamas,Oem,1,65.0,0.0,65.0,65.0
+Falabella,Hombres,Pijamas,Perú Pima,1,269.9,0.0,269.9,269.9
+Falabella,Hombres,Pijamas,Soñare Pijamas,1,90.0,0.0,90.0,90.0
+Falabella,Hombres,Poleras,Idakoos,2085,51.59,4.18,49.0,59.0
+Falabella,Hombres,Poleras,Generico,346,101.75,55.28,22.0,269.9
+Falabella,Hombres,Poleras,Swiss Lord,139,61.84,27.08,49.9,169.9
+Falabella,Hombres,Poleras,Pionier,37,118.66,45.22,55.2,175.2
+Falabella,Hombres,Poleras,Lima Shirt Co,27,113.37,14.37,104.3,139.3
+Falabella,Hombres,Poleras,Gzuck,22,157.7,39.2,89.4,229.9
+Falabella,Hombres,Poleras,Riff&Raff,21,85.06,15.44,69.9,111.75
+Falabella,Hombres,Poleras,Kmk Diseno Peruano,20,65.0,0.0,65.0,65.0
+Falabella,Hombres,Poleras,Rusty,18,181.91,24.93,101.4,199.0
+Falabella,Hombres,Poleras,Adidas,16,151.84,47.69,69.93,225.0
+Falabella,Hombres,Poleras,Elenex,16,84.56,39.99,49.9,179.0
+Falabella,Hombres,Poleras,All Basics,14,44.9,5.19,39.9,49.9
+Falabella,Hombres,Poleras,Tommy Hilfiger,14,480.61,156.96,249.9,619.9
+Falabella,Hombres,Poleras,Norton,13,177.66,34.16,71.2,199.2
+Falabella,Hombres,Poleras,Yonisters Clothing,13,56.23,10.66,49.0,79.0
+Falabella,Hombres,Poleras,Billabong,12,176.56,41.63,59.7,229.0
+Falabella,Hombres,Poleras,Diesel,12,967.33,282.39,599.0,1459.0
+Falabella,Hombres,Poleras,Calvin Klein,10,412.9,73.49,299.9,539.9
+Falabella,Hombres,Poleras,Mango,10,228.31,56.55,179.9,329.9
+Falabella,Hombres,Poleras,Salsa,10,74.95,14.35,49.0,95.2
+Falabella,Hombres,Poleras,Generica,9,153.0,134.0,69.0,439.0
+Falabella,Hombres,Poleras,Jack&Jones,9,169.9,19.36,149.9,199.9
+Falabella,Hombres,Poleras,Parada 111,9,83.23,29.58,49.9,129.9
+Falabella,Hombres,Poleras,Guess,7,426.14,103.07,219.0,549.0
+Falabella,Hombres,Poleras,Salomon,7,417.84,208.98,179.9,689.0
+Falabella,Hombres,Poleras,Fila,6,140.0,4.38,136.0,144.0
+Falabella,Hombres,Poleras,The North Face,6,289.0,15.49,269.0,299.0
+Falabella,Hombres,Poleras,Kappa,5,237.0,10.95,229.0,249.0
+Falabella,Hombres,Poleras,Lois,5,175.9,5.48,169.9,179.91
+Falabella,Hombres,Poleras,1921 International,4,199.9,16.33,179.9,219.9
+Falabella,Hombres,Poleras,Basement,4,71.2,52.46,44.97,149.9
+Falabella,Hombres,Poleras,Biela,4,269.9,0.0,269.9,269.9
+Falabella,Hombres,Poleras,Gap,4,159.9,0.0,159.9,159.9
+Falabella,Hombres,Poleras,Gordon And Smith,4,84.0,40.41,49.0,119.0
+Falabella,Hombres,Poleras,Kjari Herencia Peruana,4,65.0,0.0,65.0,65.0
+Falabella,Hombres,Poleras,Naturell,4,52.9,0.0,52.9,52.9
+Falabella,Hombres,Poleras,Nuestro,4,58.9,0.0,58.9,58.9
+Falabella,Hombres,Poleras,Polo Ralph Lauren,4,564.0,70.0,459.0,599.0
+Falabella,Hombres,Poleras,Starter,4,88.72,27.45,75.0,129.9
+Falabella,Hombres,Poleras,Superdry,4,172.18,34.56,124.95,199.92
+Falabella,Hombres,Poleras,Under Armour,4,204.95,14.76,189.9,225.0
+Falabella,Hombres,Poleras,Fackie,3,259.9,0.0,259.9,259.9
+Falabella,Hombres,Poleras,Hurley,3,119.0,0.0,119.0,119.0
+Falabella,Hombres,Poleras,Rome,3,56.33,2.31,55.0,59.0
+Falabella,Hombres,Poleras,Wrangler,3,169.0,0.0,169.0,169.0
+Falabella,Hombres,Poleras,Bearcliff,2,129.9,0.0,129.9,129.9
+Falabella,Hombres,Poleras,Champion,2,227.75,95.39,160.3,295.2
+Falabella,Hombres,Poleras,Cortefiel,2,107.9,0.0,107.9,107.9
+Falabella,Hombres,Poleras,Dc Comics,2,59.9,0.0,59.9,59.9
+Falabella,Hombres,Poleras,Denimlab,2,199.9,0.0,199.9,199.9
+Falabella,Hombres,Poleras,Disney,2,64.9,7.07,59.9,69.9
+Falabella,Hombres,Poleras,Falabella,2,14.0,0.0,14.0,14.0
+Falabella,Hombres,Poleras,Fleiri And Manner,2,76.42,0.0,76.42,76.42
+Falabella,Hombres,Poleras,Hangertips,2,69.0,0.0,69.0,69.0
+Falabella,Hombres,Poleras,Hardwork,2,96.76,0.0,96.76,96.76
+Falabella,Hombres,Poleras,John Holden,2,144.9,21.21,129.9,159.9
+Falabella,Hombres,Poleras,Justice,2,59.9,0.0,59.9,59.9
+Falabella,Hombres,Poleras,Lacoste,2,349.9,0.0,349.9,349.9
+Falabella,Hombres,Poleras,Machine,2,149.9,42.43,119.9,179.9
+Falabella,Hombres,Poleras,Masserano,2,49.0,0.0,49.0,49.0
+Falabella,Hombres,Poleras,Mostrenko,2,69.0,0.0,69.0,69.0
+Falabella,Hombres,Poleras,Nation Store,2,83.98,0.0,83.98,83.98
+Falabella,Hombres,Poleras,Peyito,2,84.9,21.21,69.9,99.9
+Falabella,Hombres,Poleras,Tropikl,2,114.9,35.36,89.9,139.9
+Falabella,Hombres,Poleras,Akx,1,50.0,0.0,50.0,50.0
+Falabella,Hombres,Poleras,Avengers,1,59.9,0.0,59.9,59.9
+Falabella,Hombres,Poleras,Bronco,1,139.9,0.0,139.9,139.9
+Falabella,Hombres,Poleras,Cascais.,1,219.9,0.0,219.9,219.9
+Falabella,Hombres,Poleras,Christian Lacroix,1,29.97,0.0,29.97,29.97
+Falabella,Hombres,Poleras,Diadora,1,129.9,0.0,129.9,129.9
+Falabella,Hombres,Poleras,Doo Australia,1,99.9,0.0,99.9,99.9
+Falabella,Hombres,Poleras,Dragon Ball,1,59.9,0.0,59.9,59.9
+Falabella,Hombres,Poleras,Ecko,1,129.9,0.0,129.9,129.9
+Falabella,Hombres,Poleras,Fitgoals,1,39.0,0.0,39.0,39.0
+Falabella,Hombres,Poleras,Marvel,1,69.9,0.0,69.9,69.9
+Falabella,Hombres,Poleras,Nike,1,195.3,0.0,195.3,195.3
+Falabella,Hombres,Poleras,Quick,1,99.9,0.0,99.9,99.9
+Falabella,Hombres,Poleras,Rip Curl,1,109.5,0.0,109.5,109.5
+Falabella,Hombres,Poleras,Rising Dragon,1,119.0,0.0,119.0,119.0
+Falabella,Hombres,Poleras,Rock And Religion,1,189.0,0.0,189.0,189.0
+Falabella,Hombres,Poleras,Rvca,1,179.0,0.0,179.0,179.0
+Falabella,Hombres,Poleras,Simpsons,1,59.9,0.0,59.9,59.9
+Falabella,Hombres,Poleras,Star Wars,1,69.9,0.0,69.9,69.9
+Falabella,Hombres,Poleras,University Club,1,44.97,0.0,44.97,44.97
+Falabella,Hombres,Poleras,Weinbrenner,1,149.0,0.0,149.0,149.0
+Falabella,Hombres,Poleras,Xero Tolerance,1,89.4,0.0,89.4,89.4
+Falabella,Hombres,Polos,All Basics,216,23.46,4.23,19.9,29.9
+Falabella,Hombres,Polos,Cherokee,181,30.73,6.49,19.9,39.9
+Falabella,Hombres,Polos,Swiss Lord,89,57.48,18.28,49.9,169.9
+Falabella,Hombres,Polos,Pionier,83,73.16,38.6,35.4,169.0
+Falabella,Hombres,Polos,Huntington,79,70.41,3.16,69.9,89.9
+Falabella,Hombres,Polos,Norton,78,83.33,38.61,41.4,169.0
+Falabella,Hombres,Polos,Springfield,74,96.67,16.8,41.93,159.9
+Falabella,Hombres,Polos,Mango,65,126.56,43.7,59.9,259.9
+Falabella,Hombres,Polos,Calvin Klein,50,237.9,47.51,139.9,329.9
+Falabella,Hombres,Polos,Jack&Jones,49,70.72,22.25,39.9,169.9
+Falabella,Hombres,Polos,Gzuck,47,60.57,17.92,34.5,119.4
+Falabella,Hombres,Polos,Billabong,44,77.9,11.35,47.4,89.0
+Falabella,Hombres,Polos,Nation Store,39,61.85,23.83,40.12,88.82
+Falabella,Hombres,Polos,Bearcliff,38,58.17,12.39,24.95,69.9
+Falabella,Hombres,Polos,Basement,34,47.75,18.89,29.95,109.9
+Falabella,Hombres,Polos,Hurley,33,96.51,15.15,79.9,149.0
+Falabella,Hombres,Polos,Elenex,29,50.41,15.03,29.0,79.9
+Falabella,Hombres,Polos,Riff&Raff,29,40.28,4.73,29.94,53.4
+Falabella,Hombres,Polos,Doo Australia,28,56.33,12.24,39.9,79.9
+Falabella,Hombres,Polos,Tommy Hilfiger,26,279.87,123.57,99.9,439.9
+Falabella,Hombres,Polos,University Club,25,67.71,20.56,24.95,99.9
+Falabella,Hombres,Polos,Guess,24,237.29,38.11,189.0,339.0
+Falabella,Hombres,Polos,Newport,24,39.17,15.29,19.95,79.9
+Falabella,Hombres,Polos,Polo Ralph Lauren,24,346.68,115.16,159.9,499.0
+Falabella,Hombres,Polos,Ecko,22,51.45,21.23,23.97,129.9
+Falabella,Hombres,Polos,La Martina,22,144.49,40.22,79.9,229.9
+Falabella,Hombres,Polos,Cortefiel,21,123.71,19.87,99.9,169.9
+Falabella,Hombres,Polos,Mossimo,21,66.33,9.88,34.95,79.9
+Falabella,Hombres,Polos,Wolf&Hank,21,98.96,33.7,44.95,159.9
+Falabella,Hombres,Polos,Generico,20,76.66,29.34,55.2,139.0
+Falabella,Hombres,Polos,Volcom,20,110.45,28.96,79.9,179.0
+Falabella,Hombres,Polos,Xero Tolerance,20,44.76,5.98,41.4,55.2
+Falabella,Hombres,Polos,360,19,25.16,1.15,24.9,29.9
+Falabella,Hombres,Polos,Kofkla,18,63.22,22.16,40.0,89.0
+Falabella,Hombres,Polos,Oakley,18,137.53,41.99,99.9,279.0
+Falabella,Hombres,Polos,Rip Curl,17,69.85,0.22,69.0,69.9
+Falabella,Hombres,Polos,Pierre Cardin,16,173.57,28.07,132.3,229.0
+Falabella,Hombres,Polos,Denimlab,15,66.24,18.55,29.95,99.9
+Falabella,Hombres,Polos,Starter,14,53.48,14.98,29.94,79.9
+Falabella,Hombres,Polos,Wrangler,14,67.9,4.15,63.9,71.9
+Falabella,Hombres,Polos,Adidas,13,107.17,42.37,63.92,215.0
+Falabella,Hombres,Polos,Christian Lacroix,13,72.45,17.06,35.94,89.9
+Falabella,Hombres,Polos,Diesel,13,385.92,93.22,229.0,599.0
+Falabella,Hombres,Polos,Superdry,13,93.38,10.48,79.9,107.94
+Falabella,Hombres,Polos,Kappa,12,87.33,14.03,69.0,99.0
+Falabella,Hombres,Polos,Levis,12,119.9,0.0,119.9,119.9
+Falabella,Hombres,Polos,Lois,12,61.57,5.77,49.9,69.9
+Falabella,Hombres,Polos,Boston,11,117.63,51.11,34.9,164.9
+Falabella,Hombres,Polos,Dockers,11,110.81,20.71,79.9,139.9
+Falabella,Hombres,Polos,Perry Ellis,11,89.51,42.22,39.95,129.0
+Falabella,Hombres,Polos,Rvca,11,98.06,16.58,55.93,129.0
+Falabella,Hombres,Polos,Cascais,10,57.84,24.69,35.94,104.93
+Falabella,Hombres,Polos,Fackie,10,74.3,5.06,71.9,83.9
+Falabella,Hombres,Polos,Under Armour,10,78.8,5.87,75.0,95.0
+Falabella,Hombres,Polos,Adidas Originals,9,83.46,6.61,71.92,89.9
+Falabella,Hombres,Polos,Pacific Berry,9,53.36,4.33,51.92,64.9
+Falabella,Hombres,Polos,Champion,8,97.29,13.67,69.93,119.0
+Falabella,Hombres,Polos,Fila,8,106.15,24.46,69.9,139.9
+Falabella,Hombres,Polos,Rusty,8,79.0,0.0,79.0,79.0
+Falabella,Hombres,Polos,Stripper,8,24.28,12.37,19.9,54.9
+Falabella,Hombres,Polos,Madmen,7,69.0,0.0,69.0,69.0
+Falabella,Hombres,Polos,Peyito,6,51.57,4.08,49.9,59.9
+Falabella,Hombres,Polos,Rising Dragon,6,89.0,15.49,79.0,109.0
+Falabella,Hombres,Polos,1921 International,5,67.9,4.47,59.9,69.9
+Falabella,Hombres,Polos,Lacoste,5,171.11,59.71,95.94,229.9
+Falabella,Hombres,Polos,Marvel,5,29.9,0.0,29.9,29.9
+Falabella,Hombres,Polos,Trial,5,141.18,23.48,99.9,159.0
+Falabella,Hombres,Polos,Ipd,4,149.0,0.0,149.0,149.0
+Falabella,Hombres,Polos,Izod,4,169.9,35.59,129.9,199.9
+Falabella,Hombres,Polos,Rock And Religion,4,109.0,11.55,99.0,119.0
+Falabella,Hombres,Polos,Skybloo,4,39.0,0.0,39.0,39.0
+Falabella,Hombres,Polos,Bronco,3,59.9,0.0,59.9,59.9
+Falabella,Hombres,Polos,Fits Men,3,57.87,4.62,55.2,63.2
+Falabella,Hombres,Polos,Bronco American,2,64.9,7.07,59.9,69.9
+Falabella,Hombres,Polos,Capitano,2,59.9,0.0,59.9,59.9
+Falabella,Hombres,Polos,Cascais.,2,74.93,35.32,49.95,99.9
+Falabella,Hombres,Polos,Reebok,2,99.0,0.0,99.0,99.0
+Falabella,Hombres,Polos,Runayaq Peru,2,59.0,0.0,59.0,59.0
+Falabella,Hombres,Polos,Trust,2,69.9,14.14,59.9,79.9
+Falabella,Hombres,Polos,Alpha Fit,1,79.0,0.0,79.0,79.0
+Falabella,Hombres,Polos,Atp,1,25.0,0.0,25.0,25.0
+Falabella,Hombres,Polos,Dkny,1,159.0,0.0,159.0,159.0
+Falabella,Hombres,Polos,Duster,1,79.0,0.0,79.0,79.0
+Falabella,Hombres,Polos,Gap,1,83.93,0.0,83.93,83.93
+Falabella,Hombres,Polos,Jacinta Fernandez,1,62.5,0.0,62.5,62.5
+Falabella,Hombres,Polos,Jockey,1,71.5,0.0,71.5,71.5
+Falabella,Hombres,Polos,Kansas,1,49.9,0.0,49.9,49.9
+Falabella,Hombres,Polos,Kayser,1,44.9,0.0,44.9,44.9
+Falabella,Hombres,Polos,Salsa,1,59.0,0.0,59.0,59.0
+Falabella,Hombres,Polos,Tapout,1,76.9,0.0,76.9,76.9
+Falabella,Hombres,Polos,Uno,1,110.0,0.0,110.0,110.0
+Falabella,Hombres,Ropa Formal,Basement,19,300.43,99.25,129.9,399.9
+Falabella,Hombres,Ropa Formal,Trial,16,343.18,297.49,79.5,999.0
+Falabella,Hombres,Ropa Formal,Newport,12,61.99,18.14,34.93,79.9
+Falabella,Hombres,Ropa Formal,Wolf&Hank,12,395.74,112.27,89.95,499.9
+Falabella,Hombres,Ropa Formal,Perry Ellis,7,153.5,56.85,89.5,199.0
+Falabella,Hombres,Ropa Formal,Bearcliff,6,263.23,117.08,149.9,369.9
+Falabella,Hombres,Ropa Formal,John Holden,6,306.57,197.25,149.9,569.9
+Falabella,Hombres,Ropa Formal,La Martina,5,435.9,163.34,219.9,599.9
+Falabella,Hombres,Ropa Formal,Baronet,4,574.9,50.0,499.9,599.9
+Falabella,Hombres,Ropa Formal,Just,4,82.0,0.0,82.0,82.0
+Falabella,Hombres,Ropa Formal,Christian Lacroix,3,216.57,75.72,129.9,269.9
+Falabella,Hombres,Ropa Formal,Norton,3,143.13,13.74,135.2,159.0
+Falabella,Hombres,Ropa Formal,Generico,2,175.0,0.0,175.0,175.0
+Falabella,Hombres,Ropa Formal,Le Petit Lion,2,40.0,0.0,40.0,40.0
+Falabella,Hombres,Ropa Formal,Pionier,2,115.3,28.14,95.4,135.2
+Falabella,Hombres,Ropa Formal,Tommy Hilfiger,2,209.0,0.0,209.0,209.0
+Falabella,Hombres,Ropa Formal,Uno,2,175.0,0.0,175.0,175.0
+Falabella,Hombres,Ropa Formal,Atp,1,99.0,0.0,99.0,99.0
+Falabella,Hombres,Ropa Formal,D'Shenk Handmade Style,1,129.9,0.0,129.9,129.9
+Falabella,Hombres,Ropa Formal,Guess,1,879.0,0.0,879.0,879.0
+Falabella,Hombres,Ropa Formal,Inspira,1,50.0,0.0,50.0,50.0
+Falabella,Hombres,Ropa Formal,Levis,1,219.9,0.0,219.9,219.9
+Falabella,Hombres,Ropa Formal,Polo Ralph Lauren,1,459.0,0.0,459.0,459.0
+Falabella,Hombres,Ropa Formal,University Club,1,99.9,0.0,99.9,99.9
+Falabella,Hombres,Ropas De Bano,All Basics,87,27.89,2.47,24.9,29.9
+Falabella,Hombres,Ropas De Bano,Billabong,29,211.15,23.67,131.4,219.0
+Falabella,Hombres,Ropas De Bano,Volcom,12,275.67,46.38,149.0,319.0
+Falabella,Hombres,Ropas De Bano,Peyito,9,74.9,0.0,74.9,74.9
+Falabella,Hombres,Ropas De Bano,Generico,7,242.37,63.24,129.9,289.89
+Falabella,Hombres,Ropas De Bano,Bucarena,5,189.0,0.0,189.0,189.0
+Falabella,Hombres,Ropas De Bano,Cascais.,5,91.91,17.87,59.94,99.9
+Falabella,Hombres,Ropas De Bano,Mango,5,159.9,0.0,159.9,159.9
+Falabella,Hombres,Ropas De Bano,Alpha Fit,4,69.0,0.0,69.0,69.0
+Falabella,Hombres,Ropas De Bano,Doo Australia,4,129.9,0.0,129.9,129.9
+Falabella,Hombres,Ropas De Bano,Gzuck,4,99.48,17.25,74.5,111.0
+Falabella,Hombres,Ropas De Bano,Jack&Jones,4,92.4,5.0,89.9,99.9
+Falabella,Hombres,Ropas De Bano,Cascais,3,109.9,17.32,99.9,129.9
+Falabella,Hombres,Ropas De Bano,Cortefiel,3,169.9,0.0,169.9,169.9
+Falabella,Hombres,Ropas De Bano,Superdry,3,159.9,0.0,159.9,159.9
+Falabella,Hombres,Ropas De Bano,Ecko,2,71.92,25.43,53.94,89.9
+Falabella,Hombres,Ropas De Bano,Huntington,2,179.9,0.0,179.9,179.9
+Falabella,Hombres,Ropas De Bano,Mossimo,2,79.9,0.0,79.9,79.9
+Falabella,Hombres,Ropas De Bano,Newport,2,39.9,14.14,29.9,49.9
+Falabella,Hombres,Ropas De Bano,Springfield,2,169.9,0.0,169.9,169.9
+Falabella,Hombres,Ropas De Bano,Bearcliff,1,59.9,0.0,59.9,59.9
+Falabella,Hombres,Ropas De Bano,Cc Group,1,29.99,0.0,29.99,29.99
+Falabella,Hombres,Ropas De Bano,Christian Lacroix,1,79.9,0.0,79.9,79.9
+Falabella,Hombres,Ropas De Bano,Diesel,1,499.0,0.0,499.0,499.0
+Falabella,Hombres,Ropas De Bano,Oakley,1,199.0,0.0,199.0,199.0
+Falabella,Hombres,Ropas De Bano,Pierre Cardin,1,179.0,0.0,179.0,179.0
+Falabella,Hombres,Ropas De Bano,Sm,1,35.99,0.0,35.99,35.99
+Falabella,Hombres,Shorts Bermudas,Norton,37,118.14,26.96,65.4,159.0
+Falabella,Hombres,Shorts Bermudas,Pionier,35,100.57,30.2,53.4,149.9
+Falabella,Hombres,Shorts Bermudas,Cherokee,34,43.28,2.37,39.9,44.9
+Falabella,Hombres,Shorts Bermudas,All Basics,29,36.62,4.07,29.9,39.9
+Falabella,Hombres,Shorts Bermudas,Tommy Hilfiger,20,313.9,103.49,169.9,439.9
+Falabella,Hombres,Shorts Bermudas,Basement,16,101.98,29.54,49.95,129.9
+Falabella,Hombres,Shorts Bermudas,Gzuck,16,104.48,23.39,59.4,169.0
+Falabella,Hombres,Shorts Bermudas,Jack&Jones,16,143.65,21.87,99.9,199.9
+Falabella,Hombres,Shorts Bermudas,Polo Ralph Lauren,14,333.29,68.13,299.0,459.0
+Falabella,Hombres,Shorts Bermudas,Billabong,12,225.18,13.22,183.2,229.0
+Falabella,Hombres,Shorts Bermudas,Mango,12,169.57,15.3,159.9,199.9
+Falabella,Hombres,Shorts Bermudas,Denimlab,10,118.4,19.99,64.95,129.9
+Falabella,Hombres,Shorts Bermudas,Adidas,9,155.46,26.51,119.92,219.9
+Falabella,Hombres,Shorts Bermudas,Riff&Raff,9,110.31,27.93,83.4,139.0
+Falabella,Hombres,Shorts Bermudas,Doo Australia,8,92.67,30.58,59.94,149.9
+Falabella,Hombres,Shorts Bermudas,Mossimo,8,114.54,22.59,90.93,149.9
+Falabella,Hombres,Shorts Bermudas,Bearcliff,7,72.2,16.97,47.94,89.9
+Falabella,Hombres,Shorts Bermudas,Ecko,7,102.76,34.0,49.95,159.9
+Falabella,Hombres,Shorts Bermudas,Huntington,7,162.76,19.76,139.9,189.9
+Falabella,Hombres,Shorts Bermudas,Levis,7,205.61,9.76,199.9,219.9
+Falabella,Hombres,Shorts Bermudas,Christian Lacroix,5,100.9,48.79,14.9,129.9
+Falabella,Hombres,Shorts Bermudas,Cotton'S Jeans,5,72.4,22.18,34.0,89.5
+Falabella,Hombres,Shorts Bermudas,Dockers,5,179.9,0.0,179.9,179.9
+Falabella,Hombres,Shorts Bermudas,Guess,5,389.0,71.41,299.0,459.0
+Falabella,Hombres,Shorts Bermudas,Pierre Cardin,5,194.28,25.49,179.0,239.0
+Falabella,Hombres,Shorts Bermudas,Rip Curl,5,195.0,32.09,159.0,229.0
+Falabella,Hombres,Shorts Bermudas,University Club,5,99.12,34.08,59.94,129.9
+Falabella,Hombres,Shorts Bermudas,Champion,4,185.15,44.1,119.0,207.2
+Falabella,Hombres,Shorts Bermudas,Salsa,4,79.0,0.0,79.0,79.0
+Falabella,Hombres,Shorts Bermudas,Springfield,4,169.9,0.0,169.9,169.9
+Falabella,Hombres,Shorts Bermudas,Tapout,4,86.9,6.0,77.9,89.9
+Falabella,Hombres,Shorts Bermudas,Volcom,4,229.0,25.82,199.0,259.0
+Falabella,Hombres,Shorts Bermudas,Xero Tolerance,4,107.4,0.0,107.4,107.4
+Falabella,Hombres,Shorts Bermudas,La Martina,3,216.57,15.28,199.9,229.9
+Falabella,Hombres,Shorts Bermudas,Newport,3,62.58,16.15,47.94,79.9
+Falabella,Hombres,Shorts Bermudas,Superdry,3,149.9,0.0,149.9,149.9
+Falabella,Hombres,Shorts Bermudas,Adidas Originals,2,179.9,28.28,159.9,199.9
+Falabella,Hombres,Shorts Bermudas,Cascais,2,129.92,56.54,89.94,169.9
+Falabella,Hombres,Shorts Bermudas,Cortefiel,2,169.92,42.41,139.93,199.9
+Falabella,Hombres,Shorts Bermudas,Jockey,2,108.0,0.0,108.0,108.0
+Falabella,Hombres,Shorts Bermudas,Rock And Religion,2,159.0,0.0,159.0,159.0
+Falabella,Hombres,Shorts Bermudas,Starter,2,84.9,7.07,79.9,89.9
+Falabella,Hombres,Shorts Bermudas,Wolf&Hank,2,179.9,0.0,179.9,179.9
+Falabella,Hombres,Shorts Bermudas,Calvin Klein,1,319.9,0.0,319.9,319.9
+Falabella,Hombres,Shorts Bermudas,Fackie,1,96.9,0.0,96.9,96.9
+Falabella,Hombres,Shorts Bermudas,Fila,1,149.99,0.0,149.99,149.99
+Falabella,Hombres,Shorts Bermudas,Fits Men,1,59.4,0.0,59.4,59.4
+Falabella,Hombres,Shorts Bermudas,Perry Ellis,1,84.5,0.0,84.5,84.5
+Falabella,Hombres,Shorts Bermudas,Peyito,1,78.9,0.0,78.9,78.9
+Falabella,Hombres,Shorts Bermudas,Rising Dragon,1,89.0,0.0,89.0,89.0
+Falabella,Hombres,Zapatillas Deportivas,Adidas,286,293.98,92.31,97.3,999.0
+Falabella,Hombres,Zapatillas Deportivas,Puma,193,260.03,92.65,119.9,649.0
+Falabella,Hombres,Zapatillas Deportivas,Nike,61,331.23,67.21,209.3,525.0
+Falabella,Hombres,Zapatillas Deportivas,Apolo,58,153.09,35.33,72.0,229.0
+Falabella,Hombres,Zapatillas Deportivas,Asics,58,395.73,144.03,167.3,764.1
+Falabella,Hombres,Zapatillas Deportivas,Peak,58,421.32,197.89,149.0,799.0
+Falabella,Hombres,Zapatillas Deportivas,Reebok,57,224.38,49.61,132.3,429.0
+Falabella,Hombres,Zapatillas Deportivas,Joma,50,214.29,58.07,99.5,343.2
+Falabella,Hombres,Zapatillas Deportivas,New Balance,41,301.34,86.39,159.9,449.9
+Falabella,Hombres,Zapatillas Deportivas,Kaida,39,152.23,31.43,104.0,223.0
+Falabella,Hombres,Zapatillas Deportivas,Power,38,115.45,22.69,55.96,183.92
+Falabella,Hombres,Zapatillas Deportivas,360,35,59.9,0.0,59.9,59.9
+Falabella,Hombres,Zapatillas Deportivas,Umbro,34,199.21,51.66,129.9,299.9
+Falabella,Hombres,Zapatillas Deportivas,Columbia,26,525.92,106.84,399.0,699.0
+Falabella,Hombres,Zapatillas Deportivas,Fratta,25,103.9,18.48,79.9,129.9
+Falabella,Hombres,Zapatillas Deportivas,Michelin,24,277.25,62.9,199.9,429.9
+Falabella,Hombres,Zapatillas Deportivas,Hi Tec,21,302.76,29.86,279.9,389.9
+Falabella,Hombres,Zapatillas Deportivas,The North Face,19,555.47,92.28,419.3,749.0
+Falabella,Hombres,Zapatillas Deportivas,Under Armour,19,319.58,80.76,199.9,459.0
+Falabella,Hombres,Zapatillas Deportivas,Merrell,18,347.68,71.42,269.9,519.9
+Falabella,Hombres,Zapatillas Deportivas,Mountain Gear,18,191.57,107.22,99.9,399.9
+Falabella,Hombres,Zapatillas Deportivas,Ocean Pacific,17,125.94,25.1,100.0,175.0
+Falabella,Hombres,Zapatillas Deportivas,Patrick,17,171.71,13.58,119.0,175.0
+Falabella,Hombres,Zapatillas Deportivas,Actvitta,14,139.92,18.67,103.92,159.92
+Falabella,Hombres,Zapatillas Deportivas,Hiperatos,14,109.0,0.0,109.0,109.0
+Falabella,Hombres,Zapatillas Deportivas,Generico,12,143.06,43.98,49.9,179.0
+Falabella,Hombres,Zapatillas Deportivas,Salomon,11,456.36,101.43,379.0,699.0
+Falabella,Hombres,Zapatillas Deportivas,New Athletic,10,209.0,0.0,209.0,209.0
+Falabella,Hombres,Zapatillas Deportivas,Walking,10,160.0,0.0,160.0,160.0
+Falabella,Hombres,Zapatillas Deportivas,Relentless,9,135.0,0.0,135.0,135.0
+Falabella,Hombres,Zapatillas Deportivas,Icax,8,153.75,2.31,150.0,155.0
+Falabella,Hombres,Zapatillas Deportivas,On,8,694.0,14.14,659.0,699.0
+Falabella,Hombres,Zapatillas Deportivas,Airflex,6,101.67,18.07,90.0,125.0
+Falabella,Hombres,Zapatillas Deportivas,Weinbrenner,6,171.54,54.93,87.92,239.2
+Falabella,Hombres,Zapatillas Deportivas,Aldo,5,371.54,165.31,199.9,529.0
+Falabella,Hombres,Zapatillas Deportivas,Fila,5,255.89,87.63,159.9,319.89
+Falabella,Hombres,Zapatillas Deportivas,Cross,4,177.5,40.1,120.0,205.0
+Falabella,Hombres,Zapatillas Deportivas,Mtw,4,159.5,49.06,90.0,204.0
+Falabella,Hombres,Zapatillas Deportivas,Avia,3,159.0,0.0,159.0,159.0
+Falabella,Hombres,Zapatillas Deportivas,Diadora,3,189.9,0.0,189.9,189.9
+Falabella,Hombres,Zapatillas Deportivas,La Gear,3,181.67,32.53,150.0,215.0
+Falabella,Hombres,Zapatillas Deportivas,All Basics,2,34.9,0.0,34.9,34.9
+Falabella,Hombres,Zapatillas Deportivas,Lotto,2,159.45,43.06,129.0,189.9
+Falabella,Hombres,Zapatillas Deportivas,Portwest,2,319.0,0.0,319.0,319.0
+Falabella,Hombres,Zapatillas Deportivas,Airwalker,1,190.0,0.0,190.0,190.0
+Falabella,Hombres,Zapatillas Deportivas,Call It Spring,1,49.9,0.0,49.9,49.9
+Falabella,Hombres,Zapatillas Deportivas,Converse,1,399.9,0.0,399.9,399.9
+Falabella,Hombres,Zapatillas Deportivas,Dc Shoes,1,199.0,0.0,199.0,199.0
+Falabella,Hombres,Zapatillas Deportivas,Delta Plus,1,429.0,0.0,429.0,429.0
+Falabella,Hombres,Zapatillas Deportivas,Kone,1,119.0,0.0,119.0,119.0
+Falabella,Hombres,Zapatillas Deportivas,Olympikus,1,219.0,0.0,219.0,219.0
+Falabella,Hombres,Zapatillas Deportivas,Sport Fitness,1,149.0,0.0,149.0,149.0
+Falabella,Hombres,Zapatillas Urbanas,Tommy Hilfiger,34,227.55,51.29,159.9,339.9
+Falabella,Hombres,Zapatillas Urbanas,Boston,29,76.66,40.8,32.9,169.9
+Falabella,Hombres,Zapatillas Urbanas,Palmers,27,80.58,14.71,47.97,94.95
+Falabella,Hombres,Zapatillas Urbanas,Kayser,21,100.14,9.42,69.9,109.9
+Falabella,Hombres,Zapatillas Urbanas,Benetton,18,108.35,72.07,47.92,369.9
+Falabella,Hombres,Zapatillas Urbanas,Clover,18,56.22,40.91,23.9,169.0
+Falabella,Hombres,Zapatillas Urbanas,Jockey,15,88.7,30.35,41.9,169.0
+Falabella,Hombres,Zapatillas Urbanas,Newport,11,38.65,7.28,31.92,49.9
+Falabella,Hombres,Zapatillas Urbanas,Stripper,9,66.01,23.29,54.9,119.9
+Falabella,Hombres,Zapatillas Urbanas,Rising Dragon,8,84.0,9.26,79.0,99.0
+Falabella,Hombres,Zapatillas Urbanas,Bearcliff,7,44.65,32.89,14.97,89.9
+Falabella,Hombres,Zapatillas Urbanas,Basement,6,59.25,33.3,31.92,99.9
+Falabella,Hombres,Zapatillas Urbanas,Calvin Klein,6,169.9,0.0,169.9,169.9
+Falabella,Hombres,Zapatillas Urbanas,La Martina,6,144.9,8.37,129.9,149.9
+Falabella,Hombres,Zapatillas Urbanas,Naturell,6,54.4,1.22,51.9,54.9
+Falabella,Hombres,Zapatillas Urbanas,Pionier,5,96.8,6.69,87.2,103.2
+Falabella,Hombres,Zapatillas Urbanas,John Holden,3,78.23,52.52,24.9,129.9
+Falabella,Hombres,Zapatillas Urbanas,Starter,3,99.9,0.0,99.9,99.9
+Falabella,Hombres,Zapatillas Urbanas,3M,2,87.0,0.0,87.0,87.0
+Falabella,Hombres,Zapatillas Urbanas,Cherokee,2,69.9,0.0,69.9,69.9
+Falabella,Hombres,Zapatillas Urbanas,Enersocks,2,44.97,4.24,41.97,47.97
+Falabella,Hombres,Zapatillas Urbanas,Infinite,2,39.95,0.0,39.95,39.95
+Falabella,Hombres,Zapatillas Urbanas,Lancaster,2,76.0,62.23,32.0,120.0
+Falabella,Hombres,Zapatillas Urbanas,Barcelona,1,51.96,0.0,51.96,51.96
+Falabella,Hombres,Zapatillas Urbanas,Dc Comics,1,109.9,0.0,109.9,109.9
+Falabella,Hombres,Zapatillas Urbanas,Generico,1,99.0,0.0,99.0,99.0
+Falabella,Hombres,Zapatillas Urbanas,Marvel,1,109.9,0.0,109.9,109.9
+Falabella,Hombres,Zapatillas Urbanas,Norton,1,76.3,0.0,76.3,76.3
+Falabella,Hombres,Zapatillas Urbanas,Nubofit,1,100.0,0.0,100.0,100.0
+Falabella,Hombres,Zapatillas Urbanas,Oem,1,65.0,0.0,65.0,65.0
+Falabella,Hombres,Zapatillas Urbanas,Perú Pima,1,269.9,0.0,269.9,269.9
+Falabella,Hombres,Zapatillas Urbanas,Soñare Pijamas,1,90.0,0.0,90.0,90.0
+Falabella,Hombres,Zapatos,Aldo,109,435.5,171.1,99.9,779.0
+Falabella,Hombres,Zapatos,Bata,80,110.51,39.59,16.0,183.92
+Falabella,Hombres,Zapatos,Call It Spring,80,256.15,73.97,99.9,379.9
+Falabella,Hombres,Zapatos,Conters,75,196.04,25.9,142.0,239.0
+Falabella,Hombres,Zapatos,Calimod,57,307.42,57.59,189.0,399.0
+Falabella,Hombres,Zapatos,All Basics,56,10.95,5.21,7.9,24.9
+Falabella,Hombres,Zapatos,Greenbay,47,278.2,18.34,249.0,349.9
+Falabella,Hombres,Zapatos,Dauss,44,281.02,18.19,269.0,349.9
+Falabella,Hombres,Zapatos,Kaida,39,207.36,17.18,151.0,229.0
+Falabella,Hombres,Zapatos,Actvitta,38,96.75,37.52,59.9,149.9
+Falabella,Hombres,Zapatos,Viale,36,243.51,16.59,189.9,279.89
+Falabella,Hombres,Zapatos,Rider,33,66.96,24.41,29.9,109.9
+Falabella,Hombres,Zapatos,Clarks,28,412.34,82.3,180.0,549.9
+Falabella,Hombres,Zapatos,Lenox,28,243.29,10.69,219.0,249.0
+Falabella,Hombres,Zapatos,Christian Lacroix,26,241.53,19.48,174.3,249.0
+Falabella,Hombres,Zapatos,Crocs,22,239.97,47.41,149.4,339.0
+Falabella,Hombres,Zapatos,Nike,22,165.94,57.03,97.3,329.0
+Falabella,Hombres,Zapatos,Doo Australia,19,38.06,8.03,4.9,39.9
+Falabella,Hombres,Zapatos,Element,18,200.11,47.14,99.0,279.0
+Falabella,Hombres,Zapatos,Basement,16,182.41,83.95,59.9,329.9
+Falabella,Hombres,Zapatos,Nonos,16,99.56,6.73,89.9,103.95
+Falabella,Hombres,Zapatos,Billabong,15,114.33,23.26,89.0,169.0
+Falabella,Hombres,Zapatos,Generico,15,348.59,337.51,19.9,915.0
+Falabella,Hombres,Zapatos,Jhonash,15,179.0,7.32,153.0,183.0
+Falabella,Hombres,Zapatos,Newport,15,95.23,22.0,79.9,129.9
+Falabella,Hombres,Zapatos,Toms,12,206.21,54.18,143.28,341.4
+Falabella,Hombres,Zapatos,Havaianas,11,75.81,9.17,59.9,89.9
+Falabella,Hombres,Zapatos,Hush Puppies,11,319.91,77.26,199.0,399.0
+Falabella,Hombres,Zapatos,Quiksilver,11,110.4,34.1,69.9,169.0
+Falabella,Hombres,Zapatos,Avia,10,63.4,7.23,55.0,69.0
+Falabella,Hombres,Zapatos,Cat,10,397.3,86.85,329.9,629.9
+Falabella,Hombres,Zapatos,Reebok,10,139.6,43.66,89.0,249.0
+Falabella,Hombres,Zapatos,Adidas,9,134.22,19.53,100.0,169.0
+Falabella,Hombres,Zapatos,Cherokee,9,24.9,0.0,24.9,24.9
+Falabella,Hombres,Zapatos,People,9,125.49,21.3,77.94,149.94
+Falabella,Hombres,Zapatos,Polo Ralph Lauren,9,232.33,43.59,189.0,299.0
+Falabella,Hombres,Zapatos,La Martina,8,89.9,10.69,79.9,99.9
+Falabella,Hombres,Zapatos,Birkenstock,7,469.0,159.69,239.0,599.0
+Falabella,Hombres,Zapatos,Nba,7,119.9,0.0,119.9,119.9
+Falabella,Hombres,Zapatos,Skechers,7,177.57,33.38,129.0,199.0
+Falabella,Hombres,Zapatos,The Cure,7,151.43,24.11,109.99,180.0
+Falabella,Hombres,Zapatos,Delta Plus,6,392.5,149.13,233.0,579.0
+Falabella,Hombres,Zapatos,Camper,5,425.4,25.1,389.4,449.4
+Falabella,Hombres,Zapatos,Weinbrenner,5,178.01,34.69,154.0,239.2
+Falabella,Hombres,Zapatos,Adidas Originals,4,97.02,8.23,89.9,104.3
+Falabella,Hombres,Zapatos,Apolo,4,49.0,0.0,49.0,49.0
+Falabella,Hombres,Zapatos,Ecco,4,222.65,16.5,197.9,230.9
+Falabella,Hombres,Zapatos,Marco Guzzi,4,159.0,0.0,159.0,159.0
+Falabella,Hombres,Zapatos,North Star,4,48.46,31.75,30.73,96.0
+Falabella,Hombres,Zapatos,The North Face,4,179.0,0.0,179.0,179.0
+Falabella,Hombres,Zapatos,Ugg,4,427.3,32.45,399.2,455.4
+Falabella,Hombres,Zapatos,Bearcliff,3,59.9,0.0,59.9,59.9
+Falabella,Hombres,Zapatos,New Balance,3,179.9,0.0,179.9,179.9
+Falabella,Hombres,Zapatos,Pata Pata,3,16.0,0.0,16.0,16.0
+Falabella,Hombres,Zapatos,Starter,3,79.9,0.0,79.9,79.9
+Falabella,Hombres,Zapatos,Under Armour,3,113.0,17.09,95.0,129.0
+Falabella,Hombres,Zapatos,University Club,3,129.9,0.0,129.9,129.9
+Falabella,Hombres,Zapatos,Diadora,2,214.9,21.21,199.9,229.9
+Falabella,Hombres,Zapatos,Dr. Martens,2,846.65,356.88,594.3,1099.0
+Falabella,Hombres,Zapatos,Freewaters,2,128.4,4.24,125.4,131.4
+Falabella,Hombres,Zapatos,Gzuck,2,289.0,0.0,289.0,289.0
+Falabella,Hombres,Zapatos,Lacoste,2,219.0,0.0,219.0,219.0
+Falabella,Hombres,Zapatos,Merrell,2,269.9,0.0,269.9,269.9
+Falabella,Hombres,Zapatos,Mountain Gear,2,99.9,0.0,99.9,99.9
+Falabella,Hombres,Zapatos,Ottoware,2,19.5,6.36,15.0,24.0
+Falabella,Hombres,Zapatos,Peak,2,199.45,0.64,199.0,199.9
+Falabella,Hombres,Zapatos,Puma,2,263.1,192.19,127.2,399.0
+Falabella,Hombres,Zapatos,Salomon,2,679.0,169.71,559.0,799.0
+Falabella,Hombres,Zapatos,Venus,2,67.45,46.03,34.9,100.0
+Falabella,Hombres,Zapatos,Airwalker,1,120.0,0.0,120.0,120.0
+Falabella,Hombres,Zapatos,Bubblegummers,1,105.0,0.0,105.0,105.0
+Falabella,Hombres,Zapatos,Cartago,1,48.0,0.0,48.0,48.0
+Falabella,Hombres,Zapatos,Dexter,1,125.0,0.0,125.0,125.0
+Falabella,Hombres,Zapatos,Dr Martens,1,679.2,0.0,679.2,679.2
+Falabella,Hombres,Zapatos,Fila,1,76.9,0.0,76.9,76.9
+Falabella,Hombres,Zapatos,Gian Bernini,1,179.0,0.0,179.0,179.0
+Falabella,Hombres,Zapatos,Guess,1,619.0,0.0,619.0,619.0
+Falabella,Hombres,Zapatos,Hunter,1,125.0,0.0,125.0,125.0
+Falabella,Hombres,Zapatos,Hurley,1,69.0,0.0,69.0,69.0
+Falabella,Hombres,Zapatos,Inspira,1,29.99,0.0,29.99,29.99
+Falabella,Hombres,Zapatos,Jaguar,1,209.0,0.0,209.0,209.0
+Falabella,Hombres,Zapatos,Michael Kors,1,329.0,0.0,329.0,329.0
+Falabella,Hombres,Zapatos,Portwest,1,370.0,0.0,370.0,370.0
+Falabella,Hombres,Zapatos,Rugged Outback And Design,1,160.0,0.0,160.0,160.0
+Falabella,Hombres,Zapatos,Umbro,1,109.0,0.0,109.0,109.0
