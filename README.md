@@ -7,3 +7,6 @@ This is possible through open-source analytical tools such as web scraping, pyth
 
 I invite you to learn more about the project by scanning the QR code or just clicking the following link:
 https://bit.ly/3Wommfr
+
+<img width="1051" alt="Screenshot 2023-01-22 at 01 25 23" src="https://user-images.githubusercontent.com/80663767/213908826-a3513137-ae7b-42d0-a96d-c38f6d59491b.png">
+<img width="1493" alt="Screenshot 2023-01-22 at 01 25 57" src="https://user-images.githubusercontent.com/80663767/213908850-9f052a9e-c7c1-4659-af4a-2ca06f1d8507.png">
